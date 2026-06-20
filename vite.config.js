@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react';
 // then base should be '/world-cup-2026-simulator/'
 export default defineConfig({
   plugins: [react()],
-  base: '/world-cup-2026-simulator/',
+  base: '/world-cup-2026/',
 });
