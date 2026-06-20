@@ -66,7 +66,7 @@ const GROUP_MATCHES = [
   // Sábado 20 junio
   { id: 'F3', group: 'F', matchday: 2, teamA: 'Netherlands', teamB: 'Sweden', venue: 'Houston Stadium', city: 'Houston', date: '2026-06-20', timeET: '13:00', timeKansas: '12:00', timeCDMX: '11:00', preResult: null },
   { id: 'E3', group: 'E', matchday: 2, teamA: 'Germany', teamB: 'Ivory Coast', venue: 'Toronto Stadium', city: 'Toronto', date: '2026-06-20', timeET: '16:00', timeKansas: '15:00', timeCDMX: '14:00', preResult: null },
-  { id: 'E4', group: 'E', matchday: 2, teamA: 'Ecuador', teamB: 'Curaçao', venue: 'Kansas City Stadium', city: 'Kansas City', date: '2026-06-20', timeET: '22:00', timeKansas: '21:00', timeCDMX: '20:00', preResult: null },
+  { id: 'E4', group: 'E', matchday: 2, teamA: 'Ecuador', teamB: 'Curaçao', venue: 'Kansas City Stadium', city: 'Kansas City', date: '2026-06-20', timeET: '20:00', timeKansas: '19:00', timeCDMX: '18:00', preResult: null },
   { id: 'F4', group: 'F', matchday: 2, teamA: 'Tunisia', teamB: 'Japan', venue: 'Estadio Monterrey', city: 'Monterrey', date: '2026-06-20', timeET: '00:00', timeKansas: '23:00', timeCDMX: '22:00', preResult: null },
   // Domingo 21 junio
   { id: 'H3', group: 'H', matchday: 2, teamA: 'Spain', teamB: 'Saudi Arabia', venue: 'Atlanta Stadium', city: 'Atlanta', date: '2026-06-21', timeET: '12:00', timeKansas: '11:00', timeCDMX: '10:00', preResult: null },
